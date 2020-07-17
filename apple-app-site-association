@@ -1,0 +1,11 @@
+{
+    "applinks": {
+		"apps": [],
+		"details": [
+			{
+				"appID": "ALNUXAGT2V.sg.gov.mnd.pccwpoc",
+				"paths": ["*"]
+			}
+		]
+	}
+}
